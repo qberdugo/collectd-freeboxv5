@@ -1,0 +1,4 @@
+ATM_errors               rx:COUNTER:0:U, tx:COUNTER:0:U
+attenuation              rx:GAUGE:0:U, tx:GAUGE:0:U
+sync                     rx:GAUGE:0:U, tx:GAUGE:0:U
+IP                       value:GAUGE:0:4294967295
